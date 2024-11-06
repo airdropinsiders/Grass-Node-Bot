@@ -1,0 +1,39 @@
+{
+  "name": "grass-node-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "grass-node-bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --no-warnings index.js",
+    "setup": "node --no-warnings setup.js",
+    "dev": "node --no-warnings index.js"
+  },
+  "keywords": [
+    "grass",
+    "grass-node-bot",
+    "getgrass-node",
+    "grass-extension",
+    "airdropinsider"
+  ],
+  "author": "AirdropInsider",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airdropinsiders/Grass-Node-Bot.git"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "https-proxy-agent": "^7.0.5",
+    "input": "^1.0.1",
+    "moment-timezone": "^0.5.45",
+    "node-fetch": "^3.3.2",
+    "rand-user-agent": "^2.0.81",
+    "socks-proxy-agent": "^8.0.4",
+    "uuid": "^11.0.2",
+    "winston": "^3.13.0",
+    "ws": "^8.18.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
