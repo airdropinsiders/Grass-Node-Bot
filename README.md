@@ -51,7 +51,7 @@ NODE : https://app.getgrass.io/dashboard/store
 Make sure you use Static Residential Proxy not just Residential Proxy (Rotating) 
 
 You can Get It from :
-https://iproyal.com/?r=409724 4$ / Proxy (Im use Aus)
+[https://iproyal.com](https://iproyal.com/?r=644826) 4$
 
 DWYOR
 
